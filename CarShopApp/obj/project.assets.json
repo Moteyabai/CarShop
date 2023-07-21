@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github Projects\\CarShop\\CarShop\\CarShopApp\\CarShopApp.csproj",
+      "projectUniqueName": "D:\\Github Projects\\CarShop\\CarShopApp\\CarShopApp.csproj",
       "projectName": "CarShopApp",
-      "projectPath": "D:\\Github Projects\\CarShop\\CarShop\\CarShopApp\\CarShopApp.csproj",
+      "projectPath": "D:\\Github Projects\\CarShop\\CarShopApp\\CarShopApp.csproj",
       "packagesPath": "C:\\Users\\Moteyaba\\.nuget\\packages\\",
-      "outputPath": "D:\\Github Projects\\CarShop\\CarShop\\CarShopApp\\obj\\",
+      "outputPath": "D:\\Github Projects\\CarShop\\CarShopApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Moteyaba\\AppData\\Roaming\\NuGet\\NuGet.Config",
