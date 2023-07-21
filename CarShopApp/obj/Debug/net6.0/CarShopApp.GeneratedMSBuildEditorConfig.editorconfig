@@ -9,77 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CarShopApp
 build_property.RootNamespace = CarShopApp
-build_property.ProjectDir = D:\Github Projects\CarShop\CarShopApp\
+build_property.ProjectDir = C:\Users\Admin\Documents\GitHub\CarShop\CarShopApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Github Projects\CarShop\CarShopApp
+build_property.MSBuildProjectDirectory = C:\Users\Admin\Documents\GitHub\CarShop\CarShopApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Github Projects/CarShop/CarShopApp/Pages/Cars/Create.cshtml]
+[C:/Users/Admin/Documents/GitHub/CarShop/CarShopApp/Pages/Cars/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github Projects/CarShop/CarShopApp/Pages/Cars/Delete.cshtml]
+[C:/Users/Admin/Documents/GitHub/CarShop/CarShopApp/Pages/Cars/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github Projects/CarShop/CarShopApp/Pages/Cars/Details.cshtml]
+[C:/Users/Admin/Documents/GitHub/CarShop/CarShopApp/Pages/Cars/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github Projects/CarShop/CarShopApp/Pages/Cars/Edit.cshtml]
+[C:/Users/Admin/Documents/GitHub/CarShop/CarShopApp/Pages/Cars/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github Projects/CarShop/CarShopApp/Pages/Cars/Index.cshtml]
+[C:/Users/Admin/Documents/GitHub/CarShop/CarShopApp/Pages/Cars/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github Projects/CarShop/CarShopApp/Pages/Error.cshtml]
+[C:/Users/Admin/Documents/GitHub/CarShop/CarShopApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github Projects/CarShop/CarShopApp/Pages/Index.cshtml]
+[C:/Users/Admin/Documents/GitHub/CarShop/CarShopApp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github Projects/CarShop/CarShopApp/Pages/Privacy.cshtml]
+[C:/Users/Admin/Documents/GitHub/CarShop/CarShopApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github Projects/CarShop/CarShopApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Admin/Documents/GitHub/CarShop/CarShopApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github Projects/CarShop/CarShopApp/Pages/Users/Create.cshtml]
+[C:/Users/Admin/Documents/GitHub/CarShop/CarShopApp/Pages/Users/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github Projects/CarShop/CarShopApp/Pages/Users/Delete.cshtml]
+[C:/Users/Admin/Documents/GitHub/CarShop/CarShopApp/Pages/Users/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github Projects/CarShop/CarShopApp/Pages/Users/Details.cshtml]
+[C:/Users/Admin/Documents/GitHub/CarShop/CarShopApp/Pages/Users/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github Projects/CarShop/CarShopApp/Pages/Users/Edit.cshtml]
+[C:/Users/Admin/Documents/GitHub/CarShop/CarShopApp/Pages/Users/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github Projects/CarShop/CarShopApp/Pages/Users/Index.cshtml]
+[C:/Users/Admin/Documents/GitHub/CarShop/CarShopApp/Pages/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github Projects/CarShop/CarShopApp/Pages/_ViewImports.cshtml]
+[C:/Users/Admin/Documents/GitHub/CarShop/CarShopApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github Projects/CarShop/CarShopApp/Pages/_ViewStart.cshtml]
+[C:/Users/Admin/Documents/GitHub/CarShop/CarShopApp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github Projects/CarShop/CarShopApp/Pages/Shared/_Layout.cshtml]
+[C:/Users/Admin/Documents/GitHub/CarShop/CarShopApp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-aiy8v7zfm7
