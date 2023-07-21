@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github Projects\\CarShop\\CarShopApp\\CarShopApp.csproj": {}
+    "D:\\Github Projects\\CarShop\\Repositories\\Repositories.csproj": {}
   },
   "projects": {
-    "D:\\Github Projects\\CarShop\\CarShopApp\\CarShopApp.csproj": {
+    "D:\\Github Projects\\CarShop\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github Projects\\CarShop\\CarShopApp\\CarShopApp.csproj",
-        "projectName": "CarShopApp",
-        "projectPath": "D:\\Github Projects\\CarShop\\CarShopApp\\CarShopApp.csproj",
+        "projectUniqueName": "D:\\Github Projects\\CarShop\\Repositories\\Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "D:\\Github Projects\\CarShop\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\Moteyaba\\.nuget\\packages\\",
-        "outputPath": "D:\\Github Projects\\CarShop\\CarShopApp\\obj\\",
+        "outputPath": "D:\\Github Projects\\CarShop\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Moteyaba\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,28 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -51,9 +73,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

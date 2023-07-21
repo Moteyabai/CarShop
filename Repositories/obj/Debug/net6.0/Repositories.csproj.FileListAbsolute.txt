@@ -1,0 +1,14 @@
+D:\Github Projects\CarShop\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\Github Projects\CarShop\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+D:\Github Projects\CarShop\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\Github Projects\CarShop\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\Github Projects\CarShop\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\Github Projects\CarShop\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Projects\CarShop\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\Github Projects\CarShop\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\Github Projects\CarShop\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Github Projects\CarShop\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\Github Projects\CarShop\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\Github Projects\CarShop\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\Github Projects\CarShop\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+D:\Github Projects\CarShop\Repositories\obj\Debug\net6.0\ref\Repositories.dll
